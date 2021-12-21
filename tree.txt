@@ -1,0 +1,34 @@
+Internal Node
+Is it bigger than a breadbox?
+Internal Node
+Is it gray?
+Leaf
+an elephant
+Internal Node
+Is it orange?
+Leaf
+a tiger
+Internal Node
+Does it like honey?
+Leaf
+a bear
+Internal Node
+Does it have stripes?
+Leaf
+a zebra
+Leaf
+a horse
+Internal Node
+Does it have long ears?
+Leaf
+a rabbit
+Internal Node
+Does it fly?
+Internal Node
+Does it have feathers?
+Leaf
+a bird
+Leaf
+a ladybug
+Leaf
+a mouse
